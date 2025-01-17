@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there! I'm **Cicero Leitea**
 
-<!--
-**ciceroleitea/ciceroleitea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Full Stack Developer** | 🤖 **Machine Learning Enthusiast** | 🧠 **AI Innovator**
 
-Here are some ideas to get you started:
+Passionate about transforming complex ideas into elegant, scalable solutions. I specialize in:  
+- 🖥️ **Backend Web Development**: Building robust APIs, server-side logic, and scalable systems.  
+- 🤖 **Machine Learning & AI**: Crafting intelligent models and deploying real-world AI applications.  
+- 🌐 **Full Stack Mastery**: Creating seamless user experiences, from frontend to backend.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Working On
+- Crafting innovative ML/AI tools for modern problems.  
+- Enhancing backend systems for performance and scalability.  
+- Exploring new tech stacks to push boundaries in web development.  
+
+---
+
+## 💻 Tech Stack
+- **Languages**: Python, JavaScript, TypeScript, SQL, and more.  
+- **Frameworks**: Django, Flask, Node.js, React, Next.js.  
+- **AI/ML**: TensorFlow, PyTorch, scikit-learn.  
+- **Databases**: PostgreSQL, MongoDB, Firebase.
+
+---
+
+> 🎯 *"Code is the language of the future, and I'm here to write its story."*
